@@ -1,6 +1,6 @@
 {
-  "display_name": "JavaScript, assert",
-  "image_name": "cyberdojofoundation/javascript_node_assert:e8470c6",
+  "display_name": "JavaScript 21.5, assert",
+  "image_name": "cyberdojofoundation/javascript_node_assert:d52d110",
   "visible_filenames": [
     "hikerTest.js",
     "hiker.js",
