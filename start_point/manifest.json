@@ -1,6 +1,6 @@
 {
-  "display_name": "JavaScript 23.4, assert",
-  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_assert:06144a4",
+  "display_name": "JavaScript 23.5, assert",
+  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_assert:0c56281",
   "visible_filenames": [
     "hikerTest.js",
     "hiker.js",
