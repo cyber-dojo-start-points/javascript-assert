@@ -1,12 +1,13 @@
 {
-  "display_name": "JavaScript 23.6, assert",
-  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_assert:aba164b",
+  "display_name": "JavaScript 25.8, assert",
+  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_assert:360a2c3",
   "visible_filenames": [
     "hikerTest.js",
     "hiker.js",
     "cyber-dojo.sh",
     ".jshintrc"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".js"
   ],
