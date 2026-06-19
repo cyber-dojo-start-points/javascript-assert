@@ -1,5 +1,13 @@
 {
   "display_name": "JavaScript 25.8, assert",
+  "language": [
+    "JavaScript",
+    "25.8"
+  ],
+  "test_framework": [
+    "assert",
+    ""
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_assert:360a2c3",
   "visible_filenames": [
     "hikerTest.js",
