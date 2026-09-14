@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 5,
+  "match_counts": {
+    "^answerSizeTest ran$": 1,
+    "^All tests passed$": 1,
+    "^AssertionError": 0,
+    "^[0-9]+ errors?$": 0
+  }
+}

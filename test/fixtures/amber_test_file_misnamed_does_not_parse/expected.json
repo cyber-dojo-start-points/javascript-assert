@@ -1,0 +1,9 @@
+{
+  "matches": [ "^hiker_tests\\.js: line [0-9]+, col [0-9]+, Expected '\\)' and instead saw ';'\\.$" ],
+  "match_counts": {
+    "^2 errors$": 1,
+    "^hiker_tests ran$": 0,
+    "^All tests passed$": 0,
+    "^AssertionError": 0
+  }
+}

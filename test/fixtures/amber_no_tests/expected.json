@@ -1,0 +1,7 @@
+{
+  "match_counts": {
+    "^All tests passed$": 0,
+    "^AssertionError": 0,
+    "^[0-9]+ errors?$": 0
+  }
+}

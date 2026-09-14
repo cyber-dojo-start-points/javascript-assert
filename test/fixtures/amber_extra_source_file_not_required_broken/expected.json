@@ -1,0 +1,10 @@
+{
+  "matches": [ "^sums\\.js: line [0-9]+, col [0-9]+, Expected an identifier and instead saw ';'\\.$" ],
+  "match_counts": {
+    "^3 errors$": 1,
+    "^hiker\\.js: ": 0,
+    "^hikerTest\\.js: ": 0,
+    "^All tests passed$": 0,
+    "^AssertionError": 0
+  }
+}

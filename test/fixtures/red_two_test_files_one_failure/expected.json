@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^All tests passed$": 1,
+    "^AssertionError \\[ERR_ASSERTION\\]: 2 == 3$": 1,
+    "^zebraTest ran$": 0,
+    "^[0-9]+ errors?$": 0
+  }
+}

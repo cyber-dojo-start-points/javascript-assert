@@ -1,0 +1,9 @@
+{
+  "matches": [ "^debug: i is 1, total is 2$" ],
+  "match_counts": {
+    "^debug: i is 0, total is 0$": 1,
+    "^All tests passed$": 0,
+    "^AssertionError": 0
+  },
+  "truncated": true
+}

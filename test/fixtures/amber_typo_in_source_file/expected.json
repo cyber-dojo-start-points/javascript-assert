@@ -1,0 +1,8 @@
+{
+  "matches": [ "^hiker\\.js: line [0-9]+, col [0-9]+, 'retrun' is not defined\\.$" ],
+  "match_counts": {
+    "^4 errors$": 1,
+    "^All tests passed$": 0,
+    "^AssertionError": 0
+  }
+}

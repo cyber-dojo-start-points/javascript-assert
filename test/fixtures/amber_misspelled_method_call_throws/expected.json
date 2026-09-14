@@ -1,0 +1,9 @@
+{
+  "matches": [ "^TypeError: hiker\\.ansewr is not a function$" ],
+  "match_counts": {
+    "^TypeError: hiker\\.ansewr is not a function$": 1,
+    "^AssertionError": 0,
+    "^All tests passed$": 0,
+    "^[0-9]+ errors?$": 0
+  }
+}

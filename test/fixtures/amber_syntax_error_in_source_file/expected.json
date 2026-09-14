@@ -1,0 +1,8 @@
+{
+  "matches": [ "^hiker\\.js: line [0-9]+, col [0-9]+, Expected an identifier and instead saw ';'\\.$" ],
+  "match_counts": {
+    "^2 errors$": 1,
+    "^All tests passed$": 0,
+    "^AssertionError": 0
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "matches": [ "^AssertionError \\[ERR_ASSERTION\\]: 42 == 43$" ],
+  "match_counts": {
+    "^AssertionError \\[ERR_ASSERTION\\]: 42 == 43$": 1,
+    "^AssertionError": 1,
+    "^All tests passed$": 0,
+    "^[0-9]+ errors?$": 0
+  }
+}

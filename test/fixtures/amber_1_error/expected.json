@@ -1,0 +1,8 @@
+{
+  "matches": [ "^hiker\\.js: line [0-9]+, col [0-9]+, 'sixNines' is defined but never used\\.$" ],
+  "match_counts": {
+    "^1 error$": 1,
+    "^All tests passed$": 0,
+    "^AssertionError": 0
+  }
+}
