@@ -1,14 +1,14 @@
 {
-  "display_name": "JavaScript 26.12.1, assert",
+  "display_name": "JavaScript 26.13.0, assert",
   "language": [
     "JavaScript",
-    "26.12.1"
+    "26.13.0"
   ],
   "test_framework": [
     "assert",
     ""
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_assert:28cd10d@sha256:0dfea19cab80f623fc537a61554658967a4cef6540391462c5b46eb2d0c8ab95",
+  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_assert:4486c55@sha256:108b4d9a8a2836bdfda8f995bcf3837af0e4516642dc9e127f27e4908099b50a",
   "visible_filenames": [
     "hikerTest.js",
     "hiker.js",
